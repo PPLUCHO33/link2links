@@ -25,7 +25,7 @@
   font-family: 'Ubuntu', sans-serif;
 }
 #menu-0 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #2969b0;
 }
 #header1-1 H1 {
   color: #eb6b56;
@@ -76,29 +76,6 @@
   color: #2c82c9;
 }
 #footer1-2 P {
-  color: #efefef;
-}
-
-#menu-20 .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-20.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
-}
-#menu-20 .mbr-navbar__section {
-  background: #ffffff;
-}
-#menu-20 .mbr-navbar__items a {
-  font-size: 12px;
-  font-family: 'Ubuntu', sans-serif;
-}
-#menu-20 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#social-buttons1-30 .mbr-header__text {
-  color: #ffffff;
-}
-#footer1-29 P {
   color: #efefef;
 }
 
@@ -175,7 +152,7 @@
   font-family: 'Ubuntu', sans-serif;
 }
 #menu-30 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #2969b0;
 }
 #content5-65 .mbr-header .mbr-header__text {
   text-align: center;
@@ -208,41 +185,6 @@
   color: #efefef;
 }
 
-#msg-box4-7 .mbr-header__text {
-  color: #2c82c9;
-}
-#msg-box4-7 .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-7 .mbr-article {
-  color: #ffffff;
-}
-#menu-2 .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-2.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
-}
-#menu-2 .mbr-navbar__section {
-  background: #ffffff;
-}
-#menu-2 .mbr-navbar__items a {
-  font-size: 12px;
-  font-family: 'Ubuntu', sans-serif;
-}
-#menu-2 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#contacts3-3 STRONG {
-  color: #000000;
-}
-#contacts3-3 P {
-  color: #2c82c9;
-}
-#footer1-4 P {
-  color: #efefef;
-}
-
 #menu-c .mbr-brand__name {
   font-size: 16px;
 }
@@ -257,7 +199,7 @@
   font-family: 'Ubuntu', sans-serif;
 }
 #menu-c .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #2969b0;
 }
 #msg-box5-y .mbr-header__text {
   color: #ffffff;
@@ -305,6 +247,41 @@
   color: #efefef;
 }
 
+#msg-box4-7 .mbr-header__text {
+  color: #2c82c9;
+}
+#msg-box4-7 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-article {
+  color: #ffffff;
+}
+#menu-2 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-2.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#menu-2 .mbr-navbar__section {
+  background: #ffffff;
+}
+#menu-2 .mbr-navbar__items a {
+  font-size: 12px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#menu-2 .mbr-navbar__hamburger {
+  color: #2969b0;
+}
+#contacts3-3 STRONG {
+  color: #000000;
+}
+#contacts3-3 P {
+  color: #2c82c9;
+}
+#footer1-4 P {
+  color: #efefef;
+}
+
 
 #msg-box4-j .mbr-header__text {
   color: #2c82c9;
@@ -329,7 +306,7 @@
   font-family: 'Ubuntu', sans-serif;
 }
 #menu-k .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #2969b0;
 }
 #header3-p H3 {
   font-family: 'Roboto Slab', serif;
@@ -371,7 +348,7 @@
   font-family: 'Ubuntu', sans-serif;
 }
 #menu-r .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #2969b0;
 }
 #msg-box4-w .mbr-header__text {
   color: #4c6972;
@@ -398,5 +375,28 @@
   color: #2c82c9;
 }
 #footer1-v P {
+  color: #efefef;
+}
+
+#menu-20 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-20.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#menu-20 .mbr-navbar__section {
+  background: #ffffff;
+}
+#menu-20 .mbr-navbar__items a {
+  font-size: 12px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#menu-20 .mbr-navbar__hamburger {
+  color: #2969b0;
+}
+#social-buttons1-30 .mbr-header__text {
+  color: #ffffff;
+}
+#footer1-29 P {
   color: #efefef;
 }
