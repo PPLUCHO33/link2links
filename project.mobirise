@@ -22,7 +22,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Link2Link Solutions | Fontana SEO &amp; Marketing  Company",
+        "title": "Link2Link Solutions | Digital Marketing  Company",
         "meta_descr": "Internet marketing company Serving Mira Loma, Ontario, Fontana and surrounding areas contact us today and receive a free online audit.",
         "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
         "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
@@ -58,7 +58,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#ffffff",
+            "color": "#efefef",
             "hamburgerColor": "#2969b0"
           },
           "logo": {
@@ -482,7 +482,7 @@
     },
     "Services.html": {
       "settings": {
-        "title": "Link2Link Solutions | Services",
+        "title": "Services | Link2Link Solutions&nbsp;",
         "meta_descr": "Leader Industry when it comes to web design, SEO and Social Media Marketing",
         "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
         "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
@@ -831,10 +831,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#cccccc"
+              "background": "#efefef"
             },
             ".mbr-navbar__section": {
-              "background": "#cccccc"
+              "background": "#efefef"
             },
             ".mbr-navbar__items a": {
               "font-size": "12px",
@@ -853,7 +853,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#cccccc",
+            "color": "#efefef",
             "hamburgerColor": "#2969b0"
           },
           "logo": {
@@ -1068,7 +1068,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#cccccc",
+            "color": "#efefef",
             "hamburgerColor": "#2969b0"
           },
           "logo": {
@@ -1467,7 +1467,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#cccccc",
+            "color": "#efefef",
             "hamburgerColor": "#2969b0"
           },
           "logo": {
@@ -1764,7 +1764,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#cccccc",
+            "color": "#efefef",
             "hamburgerColor": "#2969b0"
           },
           "logo": {
@@ -2039,7 +2039,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#cccccc",
+            "color": "#efefef",
             "hamburgerColor": "#2969b0"
           },
           "logo": {
@@ -2160,7 +2160,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iphone4.png",
+              "src": "@PROJECT_PATH@/assets/images/iphone5.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2321,7 +2321,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#cccccc",
+            "color": "#efefef",
             "hamburgerColor": "#2969b0"
           },
           "logo": {
@@ -2610,7 +2610,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#cccccc",
+            "color": "#efefef",
             "hamburgerColor": "#2969b0"
           },
           "logo": {
@@ -2731,7 +2731,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iphone4.png",
+              "src": "@PROJECT_PATH@/assets/images/iphone5.png",
               "link": "",
               "alt": "",
               "title": "",
