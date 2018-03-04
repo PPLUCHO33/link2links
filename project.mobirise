@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Services.html",
     "versionFirst": "2.8.6",
     "versionPublish": "4.2.4",
     "name": "Link2links",
@@ -14,7 +14,7 @@
         "#3c3c3c"
       ]
     },
-    "uniqCompNum": 44,
+    "uniqCompNum": 53,
     "noImageResize": "",
     "cookiesAlert": ""
   },
@@ -22,7 +22,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Link2Link Solutions | Fontana SEO & Marketing  Company",
+        "title": "Link2Link Solutions | Fontana SEO &amp; Marketing  Company",
         "meta_descr": "Internet marketing company Serving Mira Loma, Ontario, Fontana and surrounding areas contact us today and receive a free online audit.",
         "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
         "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
@@ -36,10 +36,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#cccccc"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {
-              "background": "#cccccc"
+              "background": "#ffffff"
             },
             ".mbr-navbar__items a": {
               "font-size": "12px",
@@ -54,11 +54,11 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
-            "color": "#cccccc",
+            "color": "#ffffff",
             "hamburgerColor": "#2969b0"
           },
           "logo": {
@@ -118,7 +118,7 @@
           },
           "title": "<br>Embrace Complexity",
           "text": "We Delliver comprehensive location-based digital advertising campaigns, web design and SEO for brands and agencies. The more filters, creative and unique audience segments you require, the better we perform.",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">START NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"Services.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"Services.html\" data-toolbar=\"-mbrBtnMove\">START NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_name": "features1",
@@ -247,7 +247,7 @@
           },
           "title4": "VIDEO MARKETING",
           "caption4": "We methodically create campaigns that take into account advanced AdWords settings that include geographical targeting, ad scheduling, budgeting, by<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
+          "button4": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "media5": {
             "image": {
               "active": true,
@@ -380,12 +380,12 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2969b0",
+            "bgColor": "#cccccc",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<font color=\"#000000\"><b>AREAS SERVED</b></font><br>FONTANA, CA<br>SAN BERNARDINO<br>MIRA LOMA<br>ONTARIO&nbsp;<br>RIVERSIDE<br>\n<strong>CONTACTS</strong><br>\nEmail: support@link2linksolutions.com<br>\nPhone: +1 (951) 335- 1889<br><br>",
+          "text1": "<strong>ADDRESS</strong><br>Mira Loma,CA<br>91752<br><br>\n<strong>CONTACTS</strong><br>\nEmail: support@link2linksolutions.com<br>\nPhone: +1 (951) 335- 1889<br><br>",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "form": {
             "title": "MESSAGE",
@@ -421,7 +421,7 @@
               "color": "#000000"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#2c82c9"
             }
           }
         },
@@ -487,7 +487,7 @@
         "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
         "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -616,7 +616,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact US</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"local-seo.html\" data-toolbar=\"-mbrBtnMove\">LOCAL SEO</a> ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-8"
         },
@@ -684,7 +684,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"web-design.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-9"
         },
@@ -752,7 +752,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-a"
         },
@@ -820,7 +820,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTNACT US</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"video-marketing.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-b"
         },
@@ -849,9 +849,9 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
             "color": "#cccccc",
             "hamburgerColor": "#2969b0"
@@ -1037,7 +1037,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "About Us | Link2Link Solutions | SEO & Internet Marketing Company",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1047,10 +1047,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#cccccc"
             },
             ".mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#cccccc"
             },
             ".mbr-navbar__items a": {
               "font-size": "12px",
@@ -1064,9 +1064,9 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
             "color": "#cccccc",
             "hamburgerColor": "#2969b0"
@@ -1367,7 +1367,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "LOCAL SEO | Link2Link Solutions ",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1446,10 +1446,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#cccccc"
             },
             ".mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#cccccc"
             },
             ".mbr-navbar__items a": {
               "font-size": "12px",
@@ -1463,9 +1463,9 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
             "color": "#cccccc",
             "hamburgerColor": "#2969b0"
@@ -1664,7 +1664,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Descriptiona",
         "title": "PPC MANAGEMENT | Link2Link Solutions ",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1743,10 +1743,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#cccccc"
             },
             ".mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#cccccc"
             },
             ".mbr-navbar__items a": {
               "font-size": "12px",
@@ -1760,9 +1760,9 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
             "color": "#cccccc",
             "hamburgerColor": "#2969b0"
@@ -1939,7 +1939,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "WEB DESIGN | Link2Link Solutions ",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -2018,10 +2018,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#cccccc"
             },
             ".mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#cccccc"
             },
             ".mbr-navbar__items a": {
               "font-size": "12px",
@@ -2035,9 +2035,9 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
             "color": "#cccccc",
             "hamburgerColor": "#2969b0"
@@ -2160,7 +2160,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iphone3.png",
+              "src": "@PROJECT_PATH@/assets/images/iphone4.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2289,7 +2289,7 @@
         "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
         "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
         "html_before": "",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -2299,10 +2299,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#cccccc"
             },
             ".mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#cccccc"
             },
             ".mbr-navbar__items a": {
               "font-size": "12px",
@@ -2317,9 +2317,9 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
             "color": "#cccccc",
             "hamburgerColor": "#2969b0"
@@ -2506,11 +2506,11 @@
         }
       ]
     },
-    "page7.html": {
+    "video-marketing.html": {
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "VIDEO MARKETING",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -2589,10 +2589,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#cccccc"
             },
             ".mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#cccccc"
             },
             ".mbr-navbar__items a": {
               "font-size": "12px",
@@ -2606,9 +2606,9 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
             "color": "#cccccc",
             "hamburgerColor": "#2969b0"
@@ -2731,7 +2731,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iphone3.png",
+              "src": "@PROJECT_PATH@/assets/images/iphone4.png",
               "link": "",
               "alt": "",
               "title": "",
