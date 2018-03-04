@@ -636,7 +636,7 @@
               "size": 0
             }
           },
-          "title": "SEARCH ENGINE OPTIMIZATION",
+          "title": "<br><br>SEARCH ENGINE OPTIMIZATION",
           "text": "<p>Over the last 4 years we have been refining our process and developing new strategies to keep our clients ahead of the competition. Link2Link Solutions is in constant research and development of new systems and processes to ensure maximmum online exposure.</p>",
           "_tags": [
             "Theme"
@@ -787,7 +787,8 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#4c6972"
+              "color": "#4c6972",
+              "text-align": "left"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -796,12 +797,13 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "color": "#7c706b"
+              "color": "#7c706b",
+              "text-align": "right"
             }
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
+          "button": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-a"
         },
@@ -970,7 +972,7 @@
           "title": "START TODAY",
           "meta": "",
           "text": "<p>Get started started today. Search engine optimization is one of the most effective and easy ways to drive customers to your store. As a local SEO company in Riverside, CA Link2Link Solutions will take the guess work out of this intricate process. You can hold us accountable for your local SEO results and get back to running your business. Learn more about our &nbsp;Riverside Internet marketing company by requesting a free analysis.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
           "_name": "header3",
