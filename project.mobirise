@@ -10,10 +10,11 @@
     "theme": {
       "additionalSetColors": [
         "#252525",
-        "#222222"
+        "#222222",
+        "#3c3c3c"
       ]
     },
-    "uniqCompNum": 35,
+    "uniqCompNum": 44,
     "noImageResize": "",
     "cookiesAlert": ""
   },
@@ -35,10 +36,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#cccccc"
             },
             ".mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#cccccc"
             },
             ".mbr-navbar__items a": {
               "font-size": "12px",
@@ -53,11 +54,11 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "showButtons": false,
+            "showButtons": true,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#ffffff",
+            "color": "#cccccc",
             "hamburgerColor": "#2969b0"
           },
           "logo": {
@@ -379,12 +380,12 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#2969b0",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>ADDRESS</strong><br>Mira Loma,CA<br>91752<br><br>\n<strong>CONTACTS</strong><br>\nEmail: support@link2linksolutions.com<br>\nPhone: +1 (951) 335- 1889<br><br>",
+          "text1": "<font color=\"#000000\"><b>AREAS SERVED</b></font><br>FONTANA, CA<br>SAN BERNARDINO<br>MIRA LOMA<br>ONTARIO&nbsp;<br>RIVERSIDE<br>\n<strong>CONTACTS</strong><br>\nEmail: support@link2linksolutions.com<br>\nPhone: +1 (951) 335- 1889<br><br>",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "form": {
             "title": "MESSAGE",
@@ -420,7 +421,7 @@
               "color": "#000000"
             },
             "P": {
-              "color": "#2c82c9"
+              "color": "#ffffff"
             }
           }
         },
@@ -486,7 +487,7 @@
         "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
         "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
         "html_before": "",
-        "order": 6
+        "order": 1
       },
       "components": [
         {
@@ -499,6 +500,9 @@
             },
             ".mbr-article": {
               "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
             }
           },
           "_name": "msg-box5",
@@ -516,7 +520,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/rectangle-2-copy-1920x1070-80.png",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3d8eb9",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -816,7 +820,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTNACT US</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-b"
         },
@@ -827,10 +831,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#cccccc"
             },
             ".mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#cccccc"
             },
             ".mbr-navbar__items a": {
               "font-size": "12px",
@@ -845,11 +849,11 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "showButtons": false,
+            "showButtons": true,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#ffffff",
+            "color": "#cccccc",
             "hamburgerColor": "#2969b0"
           },
           "logo": {
@@ -873,7 +877,7 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#fff"
+              "color": "#2969b0"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -901,7 +905,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/pane-2-animation.gif",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#27aae0",
+            "bgColor": "#3c3c3c",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -911,7 +915,7 @@
             "overlayColor": "#28324e",
             "overlayOpacity": 0.2
           },
-          "title": "EASY TO USE!",
+          "title": "START TODAY",
           "meta": "",
           "text": "<p>Get started started today. Search engine optimization is one of the most effective and easy ways to drive customers to your store. As a local SEO company in Riverside, CA Link2Link Solutions will take the guess work out of this intricate process. You can hold us accountable for your local SEO results and get back to running your business. Learn more about our &nbsp;Riverside Internet marketing company by requesting a free analysis.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
@@ -960,12 +964,12 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#2969b0",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>ADDRESS</strong><br>Mira Loma,CA<br>91752<br><br>\n<strong>CONTACTS</strong><br>\nEmail: support@link2linksolutions.com<br>\nPhone: +1 (951) 335- 1889<br><br>",
+          "text1": "<font color=\"#000000\"><b>AREAS SERVED</b></font><br>FONTANA, CA<br>SAN BERNARDINO<br>MIRA LOMA<br>ONTARIO&nbsp;<br>RIVERSIDE<br>\n<strong>CONTACTS</strong><br>\nEmail: support@link2linksolutions.com<br>\nPhone: +1 (951) 335- 1889<br><br>",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1001,7 +1005,7 @@
               "color": "#000000"
             },
             "P": {
-              "color": "#2c82c9"
+              "color": "#ffffff"
             }
           }
         },
@@ -1033,7 +1037,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "About Us | Link2Link Solutions | SEO & Internet Marketing Company",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1060,11 +1064,11 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "showButtons": false,
+            "showButtons": true,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#ffffff",
+            "color": "#cccccc",
             "hamburgerColor": "#2969b0"
           },
           "logo": {
@@ -1083,67 +1087,6 @@
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Services.html\">SERVICES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">ABOUT</a></li>    <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"CONTACT.html\">CONTACT</a></li> ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li> ",
           "_anchor": "menu-c"
-        },
-        {
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff",
-              "font-size": "48px"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "60",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "active": true,
-              "src": "https://vimeo.com/126617780",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "TESTIMONIAL",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-y"
         },
         {
           "_name": "footer1",
@@ -1172,7 +1115,7 @@
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
               "font-size": "48px",
-              "color": "#f97352"
+              "color": "#ffffff"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
@@ -1201,12 +1144,12 @@
             "darkBackground": false,
             "overlay": true,
             "overlayColor": "#4c6972",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.9"
           },
           "title": "About Us",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>We're a creative team of Web Designers, advertisers, and strategic marketing specialists with extensive experience in Search Engine Optimizatiob. Our services focus on building a strong corporative image to our customers. The creation of web pages and positioning in search engines like Google, Yahoo and Bing make this agency one of the leading companies in the industry of online marketing and SEO.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US FOR ANY QUESTIONS</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US FOR ANY QUESTIONS</a>",
           "_tags": [
             "Theme"
           ],
@@ -1228,7 +1171,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f97352",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1274,6 +1217,9 @@
             },
             ".mbr-article": {
               "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#7c706b"
             }
           },
           "headerAlign": "left",
@@ -1303,8 +1249,8 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.7"
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
@@ -1353,6 +1299,67 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"CONTACT.html\" data-toolbar=\"-mbrBtnMove\"></a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-h"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#e25041",
+              "font-size": "48px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://vimeo.com/126617780",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "TESTIMONIAL",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-y"
         }
       ]
     },
@@ -1360,7 +1367,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "LOCAL SEO | Link2Link Solutions ",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1371,7 +1378,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "12",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -1411,7 +1418,7 @@
             }
           },
           "title": "LOCAL SEO EXPERTS",
-          "text": "&nbsp; &nbsp; &nbsp; Being visible and prominent on search engine results could be one of the most important investments for the future of your business. Our Local Search Engine Optimization (SEO) products can help you attain that visibility. Local SEO is a process in which we take a set of keywords that apply to your business, and use them to get your website to appear on the first page of local.\n<div>\n</div><div>\n</div><div>We guarantee that your business will appear on the first page of Google local searches with your primary keywords and secondary keywords, and also listed in the Local Maps section within 60 days or your service is free until your company appears on Google Search. You can also track your progress through our bi-monthly proprietary ranking reports, which showing all of your keyword rankings in your city and zip code, as well as neighboring cities and zip codes.</div>",
+          "text": "&nbsp; Being visible and prominent on search engine results could be one of the most important investments for the future of your business. Our Local Search Engine Optimization (SEO) products can help you attain that visibility. Local SEO is a process in which we take a set of keywords that apply to your business, and use them to get your website to appear on the first page of local.\n<div>\n</div><div>\n</div><div>We guarantee that your business will appear on the first page of Google local searches with your primary keywords and secondary keywords, and also listed in the Local Maps section within 60 days or your service is free until your company appears on Google Search. You can also track your progress through our bi-monthly proprietary ranking reports, which showing all of your keyword rankings in your city and zip code, as well as neighboring cities and zip codes.</div>",
           "_tags": [
             "Theme"
           ],
@@ -1428,7 +1435,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ORGANIC SEO</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">WEB DESIGN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"CONTACT.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"Organic-SEO.html\" data-toolbar=\"-mbrBtnMove\">PPC ADWORDS&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"web-design.html\" data-toolbar=\"-mbrBtnMove\">WEB DESIGN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">VIDEO MARKETING</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a> ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-7"
         },
@@ -1456,11 +1463,11 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "showButtons": false,
+            "showButtons": true,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#ffffff",
+            "color": "#cccccc",
             "hamburgerColor": "#2969b0"
           },
           "logo": {
@@ -1481,6 +1488,100 @@
           "_anchor": "menu-2"
         },
         {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "<div>LOCAL SEARCH OPTIMIZATION</div>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            "DIV": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "header3-z"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "23",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/using-google-places-for-local-seo-950x250.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "LOCAL SEO",
+          "text": "<p>Local search engine optimization is critical to businesses success. By having a high ranking listing in Google and other search engines like Yahoo and Bing, for a major keyword you can drastically increase the amount of customers that visit your store.</p><p>\n</p><p><b>Local search engine optimization\n</b></p><p><i>Get Ranked for your Local SEO Keyword\n</i></p><p>\n</p><p>At Link2Link Solutions our local search engine optimization package will get you on the map. This easy and effective service will leave you with a Google listing &nbsp;ranking high on the first page for the keyword of your choosing. Keep in mind local SEO is different than normal SEO services. </p><p><b><i>Local SEO Process\n</i></b></p><p>\n</p><p>- Create Google Places Listing\n</p><p>- Optimize Listing\n</p><p>- Verify Listing\n</p><p>- Build Citations and Links\n</p><p>Get started with a local SEO campaign today. This is one of the most effective and easy ways to drive customers to your store. As a local SEO company in Fontana, Link2Link Solutions will take the guess work out of this intricate process. You can hold us accountable for your local SEO results and get back to running your business. Learn more about our Fontana Internet marketing company by requesting a free analysis.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#4c6972"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#7c706b",
+              "text-align": "left"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTNACT US</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-10"
+        },
+        {
           "_name": "contacts3",
           "_params": {
             "paddingTop": 3,
@@ -1489,12 +1590,12 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#2969b0",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>ADDRESS</strong><br>Mira Loma,CA<br>91752<br><br>\n<strong>CONTACTS</strong><br>\nEmail: support@link2linksolutions.com<br>\nPhone: +1 (951) 335- 1889<br><br>",
+          "text1": "<font color=\"#000000\"><b>AREAS SERVED</b></font><br>FONTANA, CA<br>SAN BERNARDINO<br>MIRA LOMA<br>ONTARIO&nbsp;<br>RIVERSIDE<br>\n<strong>CONTACTS</strong><br>\nEmail: support@link2linksolutions.com<br>\nPhone: +1 (951) 335- 1889<br><br>",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1531,7 +1632,7 @@
               "color": "#000000"
             },
             "P": {
-              "color": "#2c82c9"
+              "color": "#ffffff"
             }
           }
         },
@@ -1562,8 +1663,8 @@
     "Organic-SEO.html": {
       "settings": {
         "meta_descr": "Web Site Creator Descriptiona",
-        "title": "ORGANIC SEO | Link2Link Solutions ",
-        "order": 3
+        "title": "PPC MANAGEMENT | Link2Link Solutions ",
+        "order": 4
       },
       "components": [
         {
@@ -1595,7 +1696,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/organic-seo-82x79.png",
+              "src": "@PROJECT_PATH@/assets/images/social-media-campaign-214x180.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1613,7 +1714,7 @@
               "size": 0
             }
           },
-          "title": "PPC &amp; ORGANIC SEO",
+          "title": "PAY-PER-CLICK MANAGEMENT",
           "text": "We pride ourselves in being able to off you the finest \"National Organic SEO Campaigns\". All national compaigns consist of several thousand online listings, foums, blogs, social media's, and over a thousound custom html5 national SEO websites. As your national campaign continues to index on the internet, your campaign will continualy grow with all of our constant updates and executive campaign managment. Let the pros handle your national campaign. Call for specific details and campaign option. You can rest asured with a national campaign you will have a 24 hour live executive account agent available for you day or night.",
           "_tags": [
             "Theme"
@@ -1631,7 +1732,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">LOCAL SEO</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">WEB DESIGN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"CONTACT.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"local-seo.html\" data-toolbar=\"-mbrBtnMove\">LOCAL SEO</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"web-design.html\" data-toolbar=\"-mbrBtnMove\">WEB DESIGN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">VIDEO MARKETING</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a> ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-j"
         },
@@ -1659,11 +1760,11 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "showButtons": false,
+            "showButtons": true,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#ffffff",
+            "color": "#cccccc",
             "hamburgerColor": "#2969b0"
           },
           "logo": {
@@ -1684,36 +1785,76 @@
           "_anchor": "menu-k"
         },
         {
+          "_inherit": "msg-box5",
           "_params": {
-            "showMeta": true
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "17",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "title": "Organic SEO Vs Pay-per-Click (PPC) Advertising\n<div><br></div>",
-          "meta": "",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/brand-labs-is-adwords-qualified1-311x305.jpg",
+              "link": "",
+              "alt": "certified",
+              "title": "Google partner",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "PPC -ADWORDS",
+          "text": "<p>aid Search Advertising (SEM, PPC, Pay-Per-Click) is arguably the most important — and most profitable — digital marketing channel utilized in modern business. When return-on-investment is key, trust only a highly qualified and experienced agency for your PPC management services.\n</p><p>\n</p><p>At Shimmer, our focus is on ROI — right from the start. While others may focus on click volume and “awesome graphs”, we know very well that it is the quality of a click-through that has the greatest impact on conversions and sales. We leave the “big net” strategy to those less concerned with budgets and margins. For our clients, it’s all about sales growth and return-on-investment.</p><p><br></p><p>\n</p><p>\n</p><p><b><i>PAY-PER-CLICK CAMPAIGN MANAGEMENT SERVICES</i></b></p><p><b><i><br></i></b>We provide conversion-centric search advertising and pay per click management services to businesses of all sizes. From niche industries to highly competitive online channels, we are experienced, highly qualified digital marketing experts who will work closely with you — and achieve exceptional results.</p><p><br></p><p><b><i>LANDING PAGE OPTIMIZATION\n</i></b></p><p>A highly relevant and compelling landing page is crucial to the success of any PPC campaign. Our competitors know this, and it’s why many of them charge extra for landing page optimization.</p><p>\n</p><p>At Link2Link, our PPC management services are “all inclusive”. That means you receive content rewrites and landing page optimization as part of the package. We have no interest in up-charges, adders or hidden fees. Simply, we provide great service at an up-front price. We let our results speak for themselves… and keep you coming back as a repeat customer.</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-p",
           "_styles": {
-            "H3": {
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            ".mbr-header__text": {
+              "color": "#4c6972"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#7c706b"
             }
-          }
-        },
-        {
-          "text": "<p><br></p><p><b>Organic SEO Vs Pay-per-Click (PPC) Advertising&nbsp;\n</b></p><p></p><p></p><p></p><p>\n\n\nOrganic SEO and Pay per Click are two opposite ends of the same thread. If you want to promote your website without really waiting for nature taking its course, you need to make additional efforts and give the much needed push to your SEO campaign. In order to obtain the winning edge in the highly competitive web world, the right mix of organic SEO and PPC advertising is the key to successful websites.&nbsp;\n</p><p></p><p></p><p></p><p><br></p><p></p><p></p><p></p><p>\n\n\n<b>Click rate and conversions&nbsp;\n</b></p><p>Websites that come up in organic searches have a much better click rate when compared to PPC ads. Customers seem to trust organic results much more than they trust paid ads because search engine users assume SERPs ranks to be unbiased.&nbsp;\n</p><p></p><p>\nConversion rate of organic SEO is almost 17 percent higher than that of PPC. So, by focusing your efforts towards organic SEO, you can expect higher conversion rates.&nbsp;\n</p><p></p><p></p><p></p><p>\n\n\n<b>Return time&nbsp;</b>\n</p><p>Organic ranking is a slow process. Moreover, with trillions of websites on the web, it is really tough to get your website to rank in the top ten. PPC has an upper hand here.&nbsp;\n</p><p></p><p>\nIf you choose the right keywords and bid according to certain factors such as geo-location, your ad appears on the top more easily. The visibility of your website increases and subsequently, you are assured of a good traffic flow into your site.&nbsp;\n</p><p></p><p></p><p></p><p>\n\n\n<b>Longevity of results&nbsp;\n</b></p><p>Organic SEO gets you long term results because your website gradually but steadily ranks higher on the search engine result pages (SERPs) if the techniques you adopt are effective. PPC gets you instant results that might not be long lasting. Nevertheless, you get an early breakthrough and a platform on which you can expedite the growth of your website.&nbsp;\n</p><p></p><p></p><p></p><p>\n\n\n<b>Cost&nbsp;\n</b></p><p>When it comes to costs, PPC is the better choice because it gives you a higher ROI. You pay only for productive results and not for the presence of your ad on the page. Organic SEO is cheaper but you cannot guarantee a satisfactory ROI. Small businesses find PPC to be the better option because it is more cost effective and turns up quicker returns.&nbsp;</p><p><br></p><p>\n</p><p></p><p>\n<b>Organic SEO Campaigns&nbsp;\n</b></p><p></p><p></p><p><i><b>\n\nThe right blend of organic SEO and PPC is necessary&nbsp;\n</b></i></p><p>SEO experts agree that a combination of organic SEO and PPC is necessary to promote a business. In fact, both these methods complement each other in several ways. Together, they form a formidable promotional strategy.\n</p><p>When you combine these methods, the task becomes easier because the research you carry out for one method can be used for the other. For example, results of keyword analysis, studying target customers, and website analytics can be used for both the processes.&nbsp;</p><p>The effectiveness of the combined campaign depends on the expertise of the Internet marketing agency. So, make sure that you hire the right one.\nAccording to a new survey of digital marketers, SEO is the number one source for lead generation.</p><p></p><p></p><p></p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-o",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "font-size": "16px"
-            }
-          }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTNACT US</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-11"
         },
         {
           "_name": "contacts3",
@@ -1724,12 +1865,12 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#2969b0",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>ADDRESS</strong><br>Mira Loma,CA<br>91752<br><br>\n<strong>CONTACTS</strong><br>\nEmail: support@link2linksolutions.com<br>\nPhone: +1 (951) 335- 1889<br><br>",
+          "text1": "<font color=\"#000000\"><b>AREAS SERVED</b></font><br>FONTANA, CA<br>SAN BERNARDINO<br>MIRA LOMA<br>ONTARIO&nbsp;<br>RIVERSIDE<br>\n<strong>CONTACTS</strong><br>\nEmail: support@link2linksolutions.com<br>\nPhone: +1 (951) 335- 1889<br><br>",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1765,7 +1906,7 @@
               "color": "#000000"
             },
             "P": {
-              "color": "#2c82c9"
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts3-l"
@@ -1798,7 +1939,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "WEB DESIGN | Link2Link Solutions ",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1866,7 +2007,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">LOCAL SEO</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ORGANIC SEO</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"CONTACT.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"local-seo.html\" data-toolbar=\"-mbrBtnMove\">LOCAL SEO</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"Organic-SEO.html\" data-toolbar=\"-mbrBtnMove\">ORGANIC SEO</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">VIDEO MARKETING</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a> ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-q"
         },
@@ -1894,11 +2035,11 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "showButtons": false,
+            "showButtons": true,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#ffffff",
+            "color": "#cccccc",
             "hamburgerColor": "#2969b0"
           },
           "logo": {
@@ -1933,7 +2074,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f97352",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1966,7 +2107,7 @@
             }
           },
           "title": "WEBSITES FOR EVERY BUSINESS",
-          "text": "<p>We design all kind of websites, simply tell us the feel and look you want for your company’s new website. We’ll design a unique website especially made for your company. Link2Link Solutions offers custom websites, hosting, domains. Websites come with a nice contact form page, click to call features, internal &amp; external links, Social Media features, &amp; uploading high quality pictures and videos.\r</p><p>\r</p><p><br></p>",
+          "text": "<p>We design all kind of websites, simply tell us the feel and look you want for your company’s new website. We’ll design a unique website especially made for your company. Link2Link Solutions offers custom websites, hosting, domains. Websites come with a nice contact form page, click to call features, internal &amp; external links, Social Media features, &amp; uploading high quality pictures and videos.\n</p><p>\n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1979,6 +2120,9 @@
             },
             ".mbr-article": {
               "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#3c3c3c"
             }
           },
           "headerAlign": "left",
@@ -2002,7 +2146,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f97352",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2016,7 +2160,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iphone2.png",
+              "src": "@PROJECT_PATH@/assets/images/iphone3.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2048,11 +2192,14 @@
             },
             ".mbr-article": {
               "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#3c3c3c"
             }
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-x"
         },
@@ -2065,12 +2212,12 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#2969b0",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>ADDRESS</strong><br>Mira Loma,CA<br>91752<br><br>\n<strong>CONTACTS</strong><br>\nEmail: support@link2linksolutions.com<br>\nPhone: +1 (951) 335- 1889<br><br>",
+          "text1": "<font color=\"#000000\"><b>AREAS SERVED</b></font><br>FONTANA, CA<br>SAN BERNARDINO<br>MIRA LOMA<br>ONTARIO&nbsp;<br>RIVERSIDE<br>\n<strong>CONTACTS</strong><br>\nEmail: support@link2linksolutions.com<br>\nPhone: +1 (951) 335- 1889<br><br>",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "form": {
             "title": "MESSAGE",
@@ -2106,7 +2253,7 @@
               "color": "#000000"
             },
             "P": {
-              "color": "#2c82c9"
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts3-u"
@@ -2142,7 +2289,7 @@
         "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
         "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
         "html_before": "",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -2170,11 +2317,11 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "showButtons": false,
+            "showButtons": true,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#ffffff",
+            "color": "#cccccc",
             "hamburgerColor": "#2969b0"
           },
           "logo": {
@@ -2356,6 +2503,350 @@
               "color": "#efefef"
             }
           }
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Web Site Creator Description",
+        "title": "VIDEO MARKETING",
+        "order": 6
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "17",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/video-seo-137x79.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "VIDEO MARKETING",
+          "text": "Stop Thinking, It's time to make good desicions that are going to help your business grow. Day to day increases the way consumers evaluate products and services before they actually purchase and you have to make sure to know about those changes so you can create strategies that will increase your sales percentage.\n<div><br></div><div>Now days everybody goes online to find answers about a lot diferent things and your Company could be the solution for one of them. By creating Optimized and Google compliant websites you will increase sales and gain trust, is the best way to grow your business, you are getting a platform where you can show everybody, who you are, what you do, what you offer and why they should choose you.&nbsp;</div><div><br></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#2c82c9"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"local-seo.html\" data-toolbar=\"-mbrBtnMove\">LOCAL SEO</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"Organic-SEO.html\" data-toolbar=\"-mbrBtnMove\">ORGANIC SEO</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a> ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-12"
+        },
+        {
+          "_name": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "12px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#2969b0"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#cccccc",
+            "hamburgerColor": "#2969b0"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/online-marketing-link2link-305x95-68.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "link2link Solutions",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Link2Link</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Services.html\">SERVICES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">ABOUT</a></li>    <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"CONTACT.html\">CONTACT</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li> ",
+          "_anchor": "menu-13"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "15",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1445x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "VIDEO MARKETING",
+          "text": "<p>Four simple steps could turn your video content into a powerful driver of organic search traffic, but video works differently to web pages in search engines and this technical detail is causing a lot of brands to miss out.  \n</p><p>\n</p><p>However, reaching page one of Google is substantially easier with video than a web page.\n</p><p>These top tips will tell you exactly what you need to do to harness the power of video SEO.</p><p>\n</p><p>On Thursday I had the great pleasure of representing Econsultancy talking about the geeky subject of Video SEO to an audience at Marketing Week Live. I was amazed at how popular the topic was!</p><p>\n</p><p>More than 30 people have been in touch on Twitter asking for a copy of the slides so I thought I’d note down some of the headlines here for people to read.</p><p><br></p><p>\n</p><p><b>Most brands are missing out by not bothering\n</b></p><p>While most businesses are spending worthwhile funds improving their position in search engine results pages through SEO, very few are doing the same for video despite the fact it’s a lot simpler.  \n</p><p>\n</p><p>Because few people are doing it, competition is lower and it’s reputedly 50 times easier to reach page one of Google with a video than it is with a web page (Forrester, 2011).\n</p><p>\n</p><p>&nbsp;\n</p><p>\n</p><p><b>Google can’t see what’s in your videos\n</b></p><p>Search engines are not yet clever enough to see what's actually going on in the video, so adjusting the edit to make it more search engine friendly won't help!\n</p><p>\n</p><p>What matters here is metadata – information that exists about the video, that search engines use to determine what to display on search engine results pages (SERPs).\n</p><p>\n</p><p>&nbsp;\n</p><p>\n</p><p><b>Google has an index just for videos\n</b></p><p>When Google displays video results in SERPs, those results come from querying Google's video index. This is a big index of all the videos on the web that Google knows about.\n</p><p>\n</p><p>It automatically includes anything that's public on YouTube. But it can also include videos that are hosted on your site. The thing you need in order to do this is a video sitemap, which is a relatively technical undertaking but worth the investment in time.\n</p><p>\n</p><p>Online video platforms like Buto generate video sitemaps for you automatically. They’ve created a handy guide to video sitemaps on their blog, which will guide you through the steps you need to take even if you’re not a customer. \n</p><p>\n</p><p>&nbsp;\n</p><p>\n</p><p><b>Video doesn’t always appear as part of search\n</b></p><p>Google has the option to display video results only, but this has recently moved off the default navigation menu for most people and into ‘More’.  \n</p><p>\n</p><p>So now your video SEO work is primarily focused on reaching the top two or three positions so your videos appear on page one as part of blended search.  \n</p><p>\n</p><p>Google only displays blended results when it thinks videos might be particularly relevant to the keyword or phrase someone's searched for.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#2969b0"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#3c3c3c"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-14"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "15",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/iphone3.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "CODING",
+          "text": "<p>After all the buzz involving the HTML5 CSS3 duo, it is nice to check how websites are using all the good practices you can get from HTML5. When the buzz around the subject started, we could see a lot of websites totally animated. Now, after all the benefits of HTML5 settled, we can see websites taking advantage of it to create smooth transitions, nice image sliders and subtle animations.</p><p>\n</p><p><b><br></b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#2969b0"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-15"
+        },
+        {
+          "_name": "contacts3",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "text1": "<font color=\"#000000\"><b>AREAS SERVED</b></font><br>FONTANA, CA<br>SAN BERNARDINO<br>MIRA LOMA<br>ONTARIO&nbsp;<br>RIVERSIDE<br>\n<strong>CONTACTS</strong><br>\nEmail: support@link2linksolutions.com<br>\nPhone: +1 (951) 335- 1889<br><br>",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-16"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Link2LinkSolutions.com.<a href=\"https://docs.google.com/document/d/1mCSjBjWTVCmqjli8wrdlIj9tSZjla57oMbPHFc3hQrU/edit\" target=\"_blank\"> Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://docs.google.com/document/d/1LcfHydEPwG6wEezvgmwv2X7brZArYHVb01EQNpG-z3I/edit\">Privacy Policy</a>",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "footer1-17"
         }
       ]
     }
